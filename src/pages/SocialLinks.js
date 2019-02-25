@@ -4,6 +4,7 @@ class SocialLinks extends Component{
   render(){
     return(
       <div>
+      <p>Instagram: @johnfitz79</p>
       </div>
     )
   }
